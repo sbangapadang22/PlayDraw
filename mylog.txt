@@ -1,0 +1,9 @@
+* af9ff6e (HEAD -> main, newanimal) new corn added
+*   5c17646 Merge branch 'addmouse'
+|\  
+| * 94d7809 (addmouse) Squeak to EEEK
+| * bcf0df2 mouse added
+* | 54dd611 (catears) cat ears added
+|/  
+* e3acb87 whiskers added
+* 49d7573 (origin/main, origin/HEAD) first commit
